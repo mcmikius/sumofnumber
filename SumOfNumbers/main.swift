@@ -8,5 +8,8 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print("Input first argument")
+var a = readLine()
+print("Input second argument")
+var b = readLine()
+ 
